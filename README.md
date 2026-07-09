@@ -14,4 +14,4 @@ Repo Link
 Contact
 
 Email: kalaikalaiarasi11@gmail.com
-LinkedIn: linkedin.com/in/kalaiarasi-m-b1a655315
+LinkedIn: https://linkedin.com/in/kalaiarasi-m-b1a655315
