@@ -8,8 +8,8 @@ JavaScript, React.js, Node.js, Express.js, MongoDB, HTML5, CSS3, Tailwind CSS, G
 
 Project
 
-QuickDine — Full-stack restaurant table booking platform with JWT authentication, role-based access, and real-time reservations.
-Repo Link
+PrimeDine — Full-stack restaurant table booking platform with JWT authentication, role-based access, and real-time reservations.
+Repo Link : https://github.com/Kalaiarasi-jpg/PrimeDine
 
 Contact
 
